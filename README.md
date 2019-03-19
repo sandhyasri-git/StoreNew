@@ -1,2 +1,2 @@
 # StoreNew
-##Download python from the link https://www.python.org/
+## Download python from the link https://www.python.org/
